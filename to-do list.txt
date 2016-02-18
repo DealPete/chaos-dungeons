@@ -1,0 +1,55 @@
+
+Chaos Dungeons to-do list.
+
+monsters that give mute?
+make every class an unique experience
+fix climbing
+need the mad scribe!
+Could possibly use more elemental spells.
+remove "burn scrolls" -done, but not enough fire now?
+better example for forced beginning of turn actions.
+Describe teleportation in Manual (what if multiple players teleport at once?)
+lvl 6 needs dragon
+
+style guide:
+
+lower "floor" means going down. lower "level" means going up.
+"Monsters" come out of the Monster Deck. In combat "enemy" refers to a monster if you're a player, a player if you're a monster. All entities in a fight are "combatants."
+combatants have "combat" actions, but engage in "battle."
+"Gold coins", not "gold pieces".
+"X takes damage equal to your Y"
+there is no reference to "rounds" in combat. the combatants just take turns acting.
+It's "status ailments", not "status changes" or "status effects".
+"fire (F)", not "F (fire)"
+There are no elements, just different damage types: fire, cold, acid, lightning, poison, draining, gaze.
+"Roll X with Y. If you lose..." "Roll X with target Y. If you fail..."
+
+IDEAS:
+monster than prevents magic
+monster that takes your spell and casts it.
+
+golden fleece
+weapon of blinding (evil eye dies when blind)?
+phlogiston elemental/golem?
+
+From Rahul:
+withering willow
+demon that raises the dead.
+corruption - gain gold, but lose mind?
+fight personifications of the seven deadly sins.
+gluttony: drink all your potions
+wrath: you berserk
+sloth:continue the fight next turn
+greed; sell some stuff at low value
+envy: a random opponent gets an item
+
+eldritch abomination
+item that is a potion with multiple uses.
+harpys claw out your eyes.
+monster like "red mold" in nethack that doesn't do anything until you attack it. (maybe a humanoid like this)
+spell that curses the caster.
+weapons adding status. armour with "starts with" or "can trigger" status.
+Item/character ability that helps you steal from a shop.
+
+Alligator, Axe, Cutlass, Daggerx2, Dirk, Swordx4, Knifex2, Epee, Bladex2, Stiletto, Scimitar, Rapier, Katana, 2-h Sword, 3-h Sword
+Mace, , Hammer, Morningstar, Spear, Staffx2, Lance, Polearm, Flail, Nunchaku, Club

@@ -1,0 +1,439 @@
+LEVEL 1
+
+35% Rotted Corpse
+HP 5, Atk 3, Def 5, Mind 0, Speed 4
+10 GP, Screen, Item
+Undead
+1-5] ATTACK
+6-7] ATTACK: He hugs you, gain FEVER.
+8] He attaches a stray limb: +1 Atk, Def, +2 HP.
+
+Aged Swordsman
+HP 6, Atk 4, Def 6, Mind 2, Speed 5
+Bribe 20 GP
+40 GP, Scroll, Item
+Humanoid
+1-4] ATTACK
+5-6] DEFEND
+7-8] Dies to heart attack
+
+*/Alienated Orcish Teen
+HP 6, Atk 3, Def 6, Mind 2, Speed 4
+Bribe 10 GP
+50 GP, Potion, Item
+Humanoid
+1-2] Experiments with Potions - Random Potion effect.
+3-7] ATTACK
+8] Slashes his wrists with his broadsword, which proves fatal./*
+
+Amateur Psionicist
+HP 5, Atk 2, Def 5, Mind 3, Speed 4
+Bribe 25 GP
+Chest
+Humanoid
+1-3] Lose d8-Mind HP
+4-5] ATTACK
+6-7] {Mind + 2: Lose 1 Mind}
+8] He overdoes it and has a stroke.  You dispatch him.
+
+Baby Qyzox
+HP 6, Atk 1, Def 6, Mind 3, Speed 4
+50 Gp, Potion, Item
+Unknown
+1-2] Summons LV1
+3-4] Teleport
+5-8] 1 Damage from random element to group.
+(Heals)
+
+Carrion Crawler
+HP 4, Atk 2, Def 5, Mind 1, Speed 2
+Bribe Item
+20 GP, Item
+Animal
+1-5] ATTACK: Lose 1 Speed.
+6-8] DEFEND
+
+Diseased Mould
+HP 10, Atk 2, Def 3, Mind 0, Speed 0
+Chest
+Plant
+1-4] ATTACK
+5-7] Spews disease! Lose 1 Atk, 1 Def
+8] Shoots Acid! -d4 HP
+Whenever you would DISEASED MOULD, releases noxious cloud of spores, all other combatants -d4
+
+Dragon Hatchling
+HP 7, Atk 4, Def 6, mind 2, Speed 5
+Chest
+Dragon
+1-3] ATTACK
+4-5] DEFEND
+6-7] Breathes fire d4
+8] FLEE
+(Strong to FIRE)
+
+Evil Dwarf
+HP 5, Atk 3, Def 6, Mind 2, Speed 3
+Bribe 50 GP
+Chest
+Humanoid
+1-4] ATTACK
+5-6] Drinks Potion +2 Def
+7-8] Reads Scroll +2 Atk
+
+Frail Goblin
+HP 4, Atk 2, Def 5, Mind 2, Speed 4
+Bribe 10 GP
+20 GP, Item
+Humanoid
+1-5] ATTACK
+6-8] FLEE
+
+Giant Rat
+HP 4, Atk 2, Def 6, Mind 1, Speed 6
+10 GP, Potion, Scroll
+Animal
+1-2] ATTACK + Poison
+3-7] ATTACK
+8] FLEE
+
+Hobgoblin Patrol
+HP 8, Atk 3, Def 6, Mind 2, Speed 4
+Bribe 50 GP
+50 GP, Chest
+Humanoid
+1-6] ATTACK
+7] DEFEND
+8] A hobgoblin surrenders (-1 HP)
+
+Icy Iguana
+25 GP, Item
+Animal
+HP 6, Atk 3, Def 5, Mind 1, Speed 3
+1-4] ATTACK
+5-6] DEFEND
+7-8] Breathes ICE at you! Lose d4 HP
+(Strong to Ice, weak to Fire)
+
+Lightning Bug
+HP 2, Atk 0, Def 8, Mind 1, Speed 7
+20 GP, Potion
+Animal
+1-6] Zaps you with ELECTRICITY for 1 HP.
+7-8] FLEE
+(Immune to Lightning)
+
+Magic Mushrooms
+HP 6, Atk 0, Def 5, Mind 1, Speed 0
+Potion, LV2 Item
+Plant
+1-3] Casts Black Spell.
+4-5] TELEPORT
+6-8] Casts White Spell.
+
+Man-Eating Plant
+HP 6, Atk 2, Def 5, Mind 0, Speed 0
+Potion, Scroll, 10 GP
+Plant
+1-2] Sprays ACID, Lose d4 HP
+3-8] ATTACK
+(Strong to Acid)
+
+Mischievous Pixies
+HP 1, Atk 1, Def 9, Mind 3, Speed 7
+Bribe 100 GP
+100 GP, LV2 Item
+Humanoid
+1-2] Casts White Spell
+3-4] TELEPORT you {Mind}
+5-6] ATTACK
+7-8] FLEE
+(Flies)
+
+Potion Golem
+HP 4, Atk 3, Def 7, Mind 0, Speed 4
+10 GP, 4 Potions
+Thing
+1-8] ATTACK
+Whenever you wound Potion Golem, you get sprayed with potion water and undergo a random potion effect.
+
+Skeletons
+HP 5, Atk 3, Def 5, Mind 0, Speed 4
+30 GP, Scroll, Item
+Undead
+1-7] ATTACK
+8] Dance a jig!  -1 Atk, Def, Mind, Speed for combat
+
+Timid Acolyte
+HP 6, Atk 2, Def 6, Mind 3, Speed 4
+Bribe 25 GP
+50 GP, Potion, Item
+Humanoid
+1-2] ATTACK
+3-6] Cast White Spell
+7-8] Cowers in fear
+
+Wannabe Evil Spawn of Hell
+HP 7, Atk 4, Def 6, Mind 2, Speed 4
+50 GP, Chest
+Demon
+1-3] Take 1 damage from a puff of smoke.
+4-7] ATTACK
+8] Tries to summon the legions of Hell.  But nothing happens.
+
+Winged Sack of Gold
+HP 1, Atk 0, Def 10, Mind 1, Speed 6
+200 GP
+Thing
+1-2] Drops 2d8 GP
+3-4] DEFEND
+5-8] FLEE
+Can only be wounded by physical ATTACKs.
+
+Zombies
+HP 6, Atk 3, Def 5, Mind 0, Speed 3
+50 Gp, Item
+Undead
+1] ATTACK: eat brains!  Lose 1 Mind
+2-7] ATTACK
+8] Bodes come back to life, zombies to max HP.
+
+
+LEVEL 5
+
+Ancient Mummy
+HP 13, Atk 7, Def 10, Mind 3, Speed 4
+Bribe all your GP
+400 GP, 2 Items
+Undead
+1-4] {Mind: Cursed! (Remove like an item curse)}
+1] Speed = 1.
+2] Lose 1 HP beginning of turn.
+3] Draw Treasure cards from the level above.
+4] Can't use items
+5-8] ATTACK
+(Weak to Fire)
+
+Angry Minotaur
+HP 13, Atk 8, Def 11, Mind 2, Speed 4
+Bribe 300 GP
+400 GP, Chest
+Humanoid
+1-6] ATTACK
+7] DEFEND
+8] You whisper "Theseus", and MINOTAUR runs away dropping treasure.
+
+Dainty Dryad
+HP 4, Atk 3, Def 12, Mind 3, Speed 4
+Bribe 300 GP
+400 GP, Item
+Plant
+1-3] {Mind: Dainty Dryad secudes player and takes all his ITEMS}
+4] {Mind: Smiles daintily.  Player forget all his spells}
+5] ATTACK
+6-8] TELEPORT to random tile.
+(Heals)
+
+Demon Steed
+HP 12, Atk 7, Def 11, Mind 1, Speed 6
+200 GP
+Mount: +1 Speed, +1 Atk.
+1-3] ATTACK
+4-6] Lightning shoots from its eyes!  Lose d8 HP
+7-8] FLEE
+(Weak to ICE)
+
+Gargoyle
+HP 10, Atk 5, Def 12, Mind 0, Speed 0
+Item
+Thing
+Can only be harmed by an ATTACK.  +1 WEAPON needed to hit.
+1-8] ATTACK
+
+*/Gemini Beast
+HP 12, Atk 7, Def 10, Mind 1, Speed 5
+600 GP, 2 Items
+Animal
+1-5] ATTACK
+6-7] Icy breath, Lose d8 HP.
+8] DEFEND
+Gemini Beast appears with his twin. twin breathes fire rather than ice.*/
+
+Jupiter Flytrap
+HP 16, Atk 6, Def 7, Mind 0, Speed 0
+Potion, Scroll, Item
+Plant
+1] Spews ACID, Lose d8-2 HP, and if not resistant, random ITEM.
+2-3] Squirts fluid.  -2 Atk, -2 Def for Combat
+4-8] ATTACK
+(Strong to ACID)
+
+Manticore
+HP 18, Atk 7, Def 7, Mind 1, speed 5
+300 GP, Potion, Item
+Animal
+1-6] ATTACK
+7-8] Launces spikes from his tail.  d8 damage to group.
+(Flies, Weak to Elec)
+
+Massive Horde of Kobolds
+HP 30, Atk 5, Def 4, Mind 2, Speed 4
+Bribe 500 GP
+500 GP, Chest
+Humanoid
+1-2] Stampede: All combatants lose d8.
+3-8] ATTACK
+If Kobold are below 5 HP, they will try to flee every round.
+
+Medusa
+Hp 10, Atk 6, Def 9, Mind 2, Speed 4
+Bribe 300 GP
+600 GP, Item
+Humanoid
+1-2] GAZE: You become a statue.
+3-4] ATTACK: Poison.
+5-8] ATTACK
+
+Metal Slime
+Hp 3, Atk 3, Def 14, Mind 1, Speed 7
+1200 GP, Potion, Scroll, Level 6 Item
+Thing
+1-2] ATTACK
+3-4] Fireball for d8.
+5-8] FLEE
+(Can only be wounded by physical ATTACKs, Heals)
+
+Qyzox Elder
+HP 12, Atk 5, Def 10, Mind 3, Speed 4
+500 Gp, Scroll, Item
+Unknown
+1-3] Summons LV5
+4-6] Teleport
+5-8] d8 + 2 Damage from random element (FIRE, ICE, ACID, ELECTRICITY) to group.
+(Heals)
+
+Sorceror
+HP 8, Atk 5, Def 6, Mind 6, Speed 3
+Bribe 300 GP
+200 GP, Chest
+Humanoid
+1-5] Casts Black Spell
+6-7] Casts White Spell
+8] DEFEND
+
+Spectre
+HP 5, Atk 7, Def 10, Mind 0, Speed 3
+500 Gp, Potion, Item
+Undead
+ATTACK ineffective unless with WEAPON with bonus >= +2.
+1-6] ATTACK
+1-8] Spectre passes through you. {Mind: Lose d8 Max HP}
+(Flies)
+
+Summoner
+HP 11, Atk 5, Def 9, Mind 4, Speed 4
+Bribe 300 GP
+100 GP, Chest
+Humanoid
+1-3] Summon a Level 1-4 creature
+4-6] ATTACK
+7-8] Casts White Spell
+
+Surprisingly Powerful Duck
+HP 12, Atk 7, Def 10, Mind 1, Speed 4
+500 GP, Potion, Item
+Animal
+1-2] GAZE: You are AFRAID!
+3-4] Breathes cloud of cold air.  Group losses d8 HP.
+5-8] ATTACK
+(Strong to COLD)
+
+Time Drake
+Hp 13, Atk 8, Def 10, Mind 2, Speed 5
+300 GP, Chest
+Dragon
+1-4] ATTACK
+5-8] Time Drake tries to stop time.  {Player Mind +1:  Continue fight next turn with Time Drake getting a free ATTACK}
+(Flies)
+
+LEVEL 8
+
+Ancient Evil with Unpronouceable Name
+HP 25, Atk 12, Def 15, Mind 6, Speed 2
+2 Chests
+Demon
+1-4] Casts a White Spell, then a Black Spell
+5-8] ATTACK twice.
+(Weak to Cold)
+
+Beholder
+HP 17, Atk 10, Def 14, Mind 1, Speed 4
+2000 GP, Item
+Animal
+1-4] It fires a nasty ray at you!
+1] {Mind: Death}
+2] CONFUSION
+3] Speed - 1.
+4] You are AFRAID.
+5-8] ATTACK
+(Flies)
+
+Death Himself
+Hp 20, Atk 10, Def 15, Mind 3, Speed 4
+Bribe 1500 GP
+1000 Gp, Chest
+Demon
+1-4] ATTACK: DEATH
+5-7] He taunts you with lame insults. Lose 1 Mind.
+8] You beat him at chess and he vanishes.
+
+Dungeon Guardian
+HP 20, Atk 12, Def 15, Mind 0, Speed 4
+None
+Thing
+1-5] ATTACK twice.
+6-8] DEFEND
+When awakened will immediately TELEPORT to the Towne and not let anyone leave the Dungeon without defeating him first.
+
+Giant Mutated Strutting Mound
+HP 26, Atk 12, Def 11, Mind 0, Speed 3
+2000 GP, Chest
+Plant
+1-3] ATTACK + You are trapped in the mound, lose rest of turn.
+3-6] ATTACK
+7-8] It drenches you in ACID.  Lose 3d8 HP.
+(Heals, Strong to ACID)
+
+Level 500 Goblin
+HP 20, Atk 12, Def 15, Mind 2, Speed 4
+Bribe 500
+1000, Potion, Item
+Human
+1-5] ATTACK
+6-7] DEFEND
+8] FLEE
+
+Lich
+HP 20, Atk 11, Def 15, Mind 6, Speed 4
+Bribe 1500
+1000, Chest
+Undead
+1-4] ATTACK + Lose 1 Speed.
+5-7] Cast Black Spell.
+8] {Mind: You are AFRAID}
+
+Primeval Qyzox
+HP 20, Atk 8, Def 15, Mind 3, Speed 4
+50 Gp, Scroll, Item
+Unknown
+1-3] Summons LV8
+4-6] Teleport
+5-8] 3d8 Damage from random element (FIRE, ICE, ACID, ELECTRICITY) to group.
+(Heals)
+
+Titan
+HP 22, Atk 12, Def 16, Mind 3, Speed 4
+2000 Gp, Chest
+Humanoid
+1-7] ATTACK
+8] Causes earthquake! Remove all unoccupied tiles from dungeon.  All players and creatures without flying everywhere lose 2d8 HP.

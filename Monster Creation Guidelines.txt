@@ -1,0 +1,97 @@
+The following table contains the stats for a typical enemy of each level:
+
+Level	HP		Atk/Def	GP			Flat Damage
+1		10-12	3-4		50-75		d8
+2		14-16	5-6		125-200		2d8
+3		18-20	7-8		300-450		3d8
+4		22-25	9-10	650-1000	4d8
+
+Most enemies are atypical in some respect, but a new monster should have the typical stats unless there's some reason to deviate.
+
+[[REASONS TO DEVIATE]]
+Enemies that only attack and have no special abilities have higher Atk and Def.  Examples:  Aged Swordsman, Ogre, Minotaur, Starving Lion.
+Spell casting humanoid enemies are weaker physically and have lower Atk, Def, and HP.
+Physically large or dense enemies have higher HP.  Examples:  Ogre, Gold Golem, Giant, Dinosaur, Titan, and many of the plants.
+An enemy that is actually a group of enemies may have higher HP.  Examples:  Hobgoblin Patrol, Skeletons, Zombies, Lizard Women, Horde of Kobolds, Vampire Owls.
+There are some very quick but puny enemies in the dungeon.  They have very small HP (sometimes 1), especially high defence, and high Speed (6-8). Don't add too many of these.
+
+[[MIND]]
+Things and plants have mind 0 unless they need it for some reason.  Examples: Magic Mushrooms, Possessed Tome.
+Most undead have mind 0.  Some of the more powerful undead may have normal Mind values.  Example: Vampyre, Lich
+Animals always have Mind 1.  Lack of intelligence is their distinguishing feature.
+Dumb sentient creatures have Mind 2.  Example:  Hobgoblin Patrol, Ogre, Troll, Minotaur, Level 500 Goblin
+Intelligent Enemies have Mind 3.  Example:  Evil Dwarf, Twisted Halfling, Frost Dragon, Titan
+Enemies that use magic or psionics, or are well-educated, fantasically cunning or clever have 4-8 Mind.
+
+[[SPEED]]
+Most plants have Speed 0.  Some immobile things also have Speed 0.
+Be careful about giving monsters a Speed of 1, since this makes them too vulnerable to paralysis (losing Speed).
+Monsters slower than a man have Speed 2 or 3.
+Most humanoid enemies have Speed 4.
+Monsters faster than men have 5-8 speed.
+
+[[ANIMAL]]
+Animals always have Mind 1.
+Their Speed, Atk, and Def vary widely by the type of animal.
+
+[[DEMON]]
+
+[[DRAGON]]
+Dragons are among the most fearsome foes in the dungeon.  The average dragon has Atk and Def 1 point higher than typical, and a few more HP.  Most dragons have a breath weapon or other nasty spell-like ability, but can't cast spells themselves.  Dragons are more intelligent than animals due to their evil cunning and so have Mind 2-3.  Weaker dragons have Speed 5;  the older ones that haunt the deeper dungeon levels have Speed 6.  (Should more of the weaker dragons fly?)
+
+[[Humanoid]]
+Humanoid enemies form the largest group in the dungeon.  They are most likely to have typical stats.
+
+[[PLANT]]
+Most plants don't move or think:  Speed 0, Mind 0
+Many Large or sprawling plants have HP much higher than the typical enemy.
+Plants have trouble defending themselves and usually have a Def 1-3 points lower than the typical enemy.
+Plants often use acid as an attack.
+(Should more plants be strong against acid and weak to fire?)
+
+[[QYZOX]]
+Atk=2*DLV, Def 3*DLV, Mind=3, Speed=4, HP and Gold top of range.
+There is one Qyzox on each level, getting older with each level. Each one has 1-7] summon dlv monster, 8] teleport.
+
+[[THING]]
+Most things are ordinary objects are collections of objects brought to life by deranged wizards. Things have Mind 0, unless they need it to cast spells.
+
+[[UNDEAD]]
+Undead generally have Mind 0, unless they are especially powerful. They are immune to draining, poison, and status ailments. Many Undead have draining attacks.
+
+[[ELEMENTS]]
+Enemies with an elemental attack are often immune to that element.
+Enemies that have a fire attack are often weak to ice, and vice versa.
+
+[[THE CARDS]]
+(Note: This section refers to the Monsters.docx file that was never used)
+Each monster card is 6.35x8.85 inches, the same size as a Magic the Gathering card.  The rows have heights 1.2", 1.8", 5.2", and 0.65".
+
+[[TREASURE]] 
+These are standard treasure amount for the dungeon's denizens:
+
+Type		Gold	Weaker		Stronger
+
+Animal	 	66%	Potion/Scroll	Item
+Demon:		100%	Item		Chest
+Dragon:		150%	Item		Item
+Humanoid:	120%	Item		Chest
+Plant:		66%	Potion/Scroll	Item
+Qyzox: 		100%	Potion/Scroll	Potion/Scroll
+Thing: 		66%	Potion/Scroll	Item
+Undead:		100%	Item		Item
+
+(Should enemies give out more or less scrolls and potions?)
+
+[[HAND-WRITTEN MONSTERS]]
+The following table contains the stats for a typical enemy of each level:
+
+Level	HP	Atk/Def	GP	Group Damage	Single Damage
+1	10	3	50	1
+2	12	4	75	d4
+3	14	5	125	d4 + 2
+4	16	6	200	d8
+5	18	7	300	d8 + 2
+6	20	8	450	2d8
+7	22	10	650	2d8 + 2
+8	25	12	1000	3d8

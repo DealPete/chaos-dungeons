@@ -1,0 +1,130 @@
+Basically, the idea struck me earlier to use the Dungeon Tiles from a game I've been working on to create the map for Final Fantasy Card Game.  The problem though, is that Final Fantasy uses permanent dungeons and I only have so many of the tiles.  So I figured, why not spice up the dungeon generation tables by adding the room type from Chaos Dungeons?  Anyway, here's what I came up with:
+
+
+<:Peter's Unofficial FFCG extension:>
+
+
+Draw a card for exits normally.
+
+Then draw a card to see what kind of room you're in:
+
+A-8	Ordinary room
+9-T	Room with treasure
+J	Draw on subtable A
+Q	Draw on subtable B
+K	Draw on subtable C
+
+
+Subtable A
+
+
+A	Dark Room
+2	Mud
+3	one of the impassible walls contains a Tunnel
+4	Dungeon Exit
+5	Magic Barrier in random exit
+6	Giant Blades in random exit
+7	Door in random exit
+8	Stairs Up
+9	Laboratory
+T	Portal
+J	Bidirectional Stairs
+Q	Ladder
+K	Fountain
+
+
+Subtable B
+
+A	Ledge in random exit
+2	Tomb of Knowledge
+3	Library
+4	Floodgates
+5	Crystal Ball
+6	Spikes on wall opposite entrance
+7	Chasm
+8-K	Stairs Down
+
+
+Subtable C
+
+A	Giant Fan pointing out random exit
+2	d13 Mysterious Statues
+3	Arena
+4	casino
+5	Teleporter
+6	Springboard
+7	Shop
+8	Save Spot
+9	Damage Floor
+T	Slide
+J	Ice
+Q-K	Pit
+
+
+Unless you drew on Subtable C, you encounter monsters if the final card you drew was a heart (this will give the same odds of meeting enemies as under the old chart).  If there are enemies in the room with someone else (e.g. treasure), you must defeat the enemies before interacting with it.
+
+
+Dark Room:  Everyone fights as if they were "Blind" while in this room.  When you leave roll randomly for exit.
+
+Mud:	If the party doesn't "Float", it gets stuck in the mud until some monsters show up and attack.  In the ensuing battle, any combatant not immune to earth is considered to be "slow".
+
+Tunnel:		The tunnel is a direct link to any other tunnel that has appeared in the Dungeon.
+
+Dungeon Exit:	Leaves the dungeon.  You can't come back in this way.
+
+Magic Barrier:	When the party passes through the barrier, each player draws Int cards.  If no card is an ace, he takes Dungeon Level x 10 damage.
+
+Giant Blades:	When the party passes through the blades, each player draws Agi cards.  If no card is an ace, he takes Dungeon Level x 10 damage.
+
+Door:	Any character can try to break down the door.  Draw Str cards.  If no card is an ace, the door remains stuck, and you draw a card to see if monsters heard.  on a heart, you are attacked.
+
+Laboratory:	You can buy Items here from the alchemist.
+
+Portal:		Jumping in the portal warps you to a random square on a random level (pretend each level is on a 13x13 grid centred on the first square you explored).  The party can flee into the Portal when they run away.
+
+Ladder:		Allows you to go up or down 1 or 2 levels.
+
+Fountain:	Restores all HP and removes KO.
+
+Ledge:		Everyone needs "Float" to surmount the ledge.
+
+Tomb of Knowledge:	everyone restores their MP.
+
+Library:	By researching in the Library, everyone can gain all the spells in their ability sets of level equal to or less than the Dungeon Level
+
+Floodgates:	Pulling the floodgates lever destroys the current level and everything in it.  The party moves down to the square on the level below.  You can pull the lever in a fight by running away successfully.
+
+Crystal Ball:	Allows you to know what's in all rooms within three squares (as the taxi drives).
+
+Slide, Ice:	Both of these move you in one direction without the possibility of combat.  You can't return via a slide, and you can't turn on ice.  If everyone has "float" you can ignore.
+
+Fan:		you blow in the direction of the fan until you hit a wall.  No monster encounters in between.
+
+Spikes on wall:	if you entered this room via a slide, ice, or a fan, each party members loses Dungeon Level x 10 HP.
+
+Mysterious Statues:	The Statues are a random monster.  If you touch any one of them, they all come to life.
+
+Arena:	Everytime you pass through the Arena, you must fight, with no running away.
+
+Casino:		Each player draws Int cards.  If a player doesn't draw an ace, he loses TNL x 10 Gil
+
+Teleporter:	Teleport to a random square (pretend the level is on a 13x13 grid centred on the first square you explored).
+
+Shop:		You can buy weapons and armour here.
+
+Pit:		Unless everyone has "Float" you fall through to the next floor.
+
+Springboard:	You bounce up through the ceiling to the level above.
+
+Chasm:		If you try to cross the bridge, the player with the least Agi draws Agi cards.  if he doesn't draw an ace, everyone falls through to the square 2 Dungeon Levels below.
+
+
+
+These new charts require a couple changes to the exploring rules:
+1]  You no longer discover a staircase by exhausting the dungeon.  Instead you need to discover a way down.
+2]  It is now possible to get trapped.  if this happens, the party can search for secret doors.  To do so, draw a card from the deck.  if it is a 2, a secret door is found.  if it is a heart, your searching has attracted monsters, which attack.
+3]  If you draw one of the following on the bottom level, instead it's an empty room with the boss:  Pit, Chasm, Stairs Down, Bidirectional Stairs, Ladder, or floodgates.  Once the boss is dead, these things are just empty rooms. 
+
+
+Any thoughts?
+
