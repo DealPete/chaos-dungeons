@@ -51,5 +51,27 @@ spell that curses the caster.
 weapons adding status. armour with "starts with" or "can trigger" status.
 Item/character ability that helps you steal from a shop.
 
+FROM PAGE OF IDEAS:
+Item that lets you go twice in combat
+Room - Mysterious Lever
+Sword that does more damage when you are close to death.
+Sword that drains life for you.
+Wierd effect that mixes up stats
+Cursed item that gives you random status effects
+Kangaroo that boxes you
+Magic Carpet
+Monster takes and casts PC's spell
+More "brawn" characters
+"evil" enemies from other character types
+unidentified scroll/potion merchant
+Item - while wearing this you can cast spells, discard scroll to draw spell.
+Monster that returns to max HP
+Spell that heals both players and monsters
+Add items that give magic casting power.
+Cursed item that makes you berserk.
+Color shifted ogre. (purple?)
+Spell that rotates line of tiles off the map and onto other side
+comfortable trellis
+
 Alligator, Axe, Cutlass, Daggerx2, Dirk, Swordx4, Knifex2, Epee, Bladex2, Stiletto, Scimitar, Rapier, Katana, 2-h Sword, 3-h Sword
-Mace, , Hammer, Morningstar, Spear, Staffx2, Lance, Polearm, Flail, Nunchaku, Club
+Mace, Hammer, Morningstar, Spear, Staffx2, Lance, Polearm, Flail, Nunchaku, Club
