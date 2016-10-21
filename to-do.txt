@@ -1,6 +1,8 @@
 
 Chaos Dungeons to-do list.
 
+need another character that can open locks.
+More "brawn" characters
 monsters that give mute?
 make every class an unique experience
 fix climbing
@@ -9,7 +11,7 @@ Could possibly use more elemental spells.
 remove "burn scrolls" -done, but not enough fire now?
 better example for forced beginning of turn actions.
 Describe teleportation in Manual (what if multiple players teleport at once?)
-lvl 6 needs dragon
+add more dragons (lvl 6 needs dragon)
 
 style guide:
 
@@ -44,7 +46,6 @@ greed; sell some stuff at low value
 envy: a random opponent gets an item
 
 eldritch abomination
-item that is a potion with multiple uses.
 harpys claw out your eyes.
 monster like "red mold" in nethack that doesn't do anything until you attack it. (maybe a humanoid like this)
 spell that curses the caster.
@@ -61,17 +62,12 @@ Cursed item that gives you random status effects
 Kangaroo that boxes you
 Magic Carpet
 Monster takes and casts PC's spell
-More "brawn" characters
 "evil" enemies from other character types
 unidentified scroll/potion merchant
-Item - while wearing this you can cast spells, discard scroll to draw spell.
 Monster that returns to max HP
-Spell that heals both players and monsters
 Add items that give magic casting power.
 Cursed item that makes you berserk.
-Color shifted ogre. (purple?)
 Spell that rotates line of tiles off the map and onto other side
-comfortable trellis
 
 Alligator, Axe, Cutlass, Daggerx2, Dirk, Swordx4, Knifex2, Epee, Bladex2, Stiletto, Scimitar, Rapier, Katana, 2-h Sword, 3-h Sword
 Mace, Hammer, Morningstar, Spear, Staffx2, Lance, Polearm, Flail, Nunchaku, Club
