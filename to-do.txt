@@ -68,6 +68,7 @@ Monster that returns to max HP
 Add items that give magic casting power.
 Cursed item that makes you berserk.
 Spell that rotates line of tiles off the map and onto other side
+Sack of flour.
 
 Alligator, Axe, Cutlass, Daggerx2, Dirk, Swordx4, Knifex2, Epee, Bladex2, Stiletto, Scimitar, Rapier, Katana, 2-h Sword, 3-h Sword
 Mace, Hammer, Morningstar, Spear, Staffx2, Lance, Polearm, Flail, Nunchaku, Club
